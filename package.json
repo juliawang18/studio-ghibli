@@ -2,7 +2,7 @@
   "name": "studio-ghibli",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliawang18.github.io/studio-ghibili",
+  "homepage": "https://juliawang18.github.io/studio-ghibli",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
