@@ -1,12 +1,12 @@
 .film-component {
-    padding: 10%;
-
+    padding: 5%;
+    width: 100%;
+    height: 20%;
 }
 
 .pic {
     position: absolute;
     margin-bottom: 20%;
-
   }
   
   .pic:hover {
@@ -34,5 +34,7 @@
 .text {
     padding-left: 3%;
     font-family: 'Overpass', sans-serif;
+    width: 800px;
+    height: 350px;
 }
   

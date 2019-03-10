@@ -29,4 +29,5 @@
 
 .list {
   right: 0;
+  justify-content: space-evenly;
 }
