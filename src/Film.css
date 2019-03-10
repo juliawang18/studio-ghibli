@@ -1,0 +1,38 @@
+.film-component {
+    padding: 10%;
+
+}
+
+.pic {
+    position: absolute;
+    margin-bottom: 20%;
+
+  }
+  
+  .pic:hover {
+    opacity: 0;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+  }
+
+.title {
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+  
+.date {
+    margin-bottom: 10px;
+}
+
+.description {
+    width: 75%;
+}
+
+.text {
+    padding-left: 3%;
+    font-family: 'Overpass', sans-serif;
+}
+  

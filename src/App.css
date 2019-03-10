@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.title-side {
+  display: inline-block;
+}
+
+
+.g-title {
+  margin-left: 20%;
+  margin-top:30%;
+  width: 50%;
+}
+
+.film {
+  height: 100%;
+  width: 60%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.title {
+  left: 0;
+}
+
+.list {
+  right: 0;
+}
