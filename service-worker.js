@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/studio-ghibili/precache-manifest.62e27ecfda7fe81b9aa1ba8ca1331521.js"
+  "/studio-ghibli/precache-manifest.0fdf6ad8338fb6676a2a56630e80d011.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/studio-ghibili/index.html", {
+workbox.routing.registerNavigationRoute("/studio-ghibli/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
