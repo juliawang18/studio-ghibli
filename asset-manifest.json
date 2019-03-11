@@ -1,5 +1,5 @@
 {
-  "main.css": "/studio-ghibli/static/css/main.792b349e.chunk.css",
+  "main.css": "/studio-ghibli/static/css/main.d341e8e9.chunk.css",
   "main.js": "/studio-ghibli/static/js/main.15112008.chunk.js",
   "main.js.map": "/studio-ghibli/static/js/main.15112008.chunk.js.map",
   "runtime~main.js": "/studio-ghibli/static/js/runtime~main.7aae90c0.js",
@@ -7,9 +7,9 @@
   "static/js/2.c736600d.chunk.js": "/studio-ghibli/static/js/2.c736600d.chunk.js",
   "static/js/2.c736600d.chunk.js.map": "/studio-ghibli/static/js/2.c736600d.chunk.js.map",
   "index.html": "/studio-ghibli/index.html",
-  "precache-manifest.0fdf6ad8338fb6676a2a56630e80d011.js": "/studio-ghibli/precache-manifest.0fdf6ad8338fb6676a2a56630e80d011.js",
+  "precache-manifest.5ec993fae0817c26ba6de2f7fbb01a2b.js": "/studio-ghibli/precache-manifest.5ec993fae0817c26ba6de2f7fbb01a2b.js",
   "service-worker.js": "/studio-ghibli/service-worker.js",
-  "static/css/main.792b349e.chunk.css.map": "/studio-ghibli/static/css/main.792b349e.chunk.css.map",
+  "static/css/main.d341e8e9.chunk.css.map": "/studio-ghibli/static/css/main.d341e8e9.chunk.css.map",
   "static/media/arrietty.jpg": "/studio-ghibli/static/media/arrietty.a0ef4ef0.jpg",
   "static/media/castle.jpg": "/studio-ghibli/static/media/castle.4e7a6437.jpg",
   "static/media/catreturns.jpg": "/studio-ghibli/static/media/catreturns.a6793336.jpg",

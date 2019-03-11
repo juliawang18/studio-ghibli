@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/studio-ghibli/static/media/monoke.09cea881.jpg"
   },
   {
-    "revision": "be0f70bdba1a91c33c24",
-    "url": "/studio-ghibli/static/css/main.792b349e.chunk.css"
+    "revision": "09bb9ceb11926142f0fe",
+    "url": "/studio-ghibli/static/css/main.d341e8e9.chunk.css"
   },
   {
     "revision": "e28b6e2e2bea522e8054",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/studio-ghibli/static/media/whisper.c00ec55a.jpg"
   },
   {
-    "revision": "be0f70bdba1a91c33c24",
+    "revision": "09bb9ceb11926142f0fe",
     "url": "/studio-ghibli/static/js/main.15112008.chunk.js"
   },
   {
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/studio-ghibli/static/media/whenmarnie.2b943213.jpg"
   },
   {
-    "revision": "4896ef54fd6a3e84387c579033a3c44b",
+    "revision": "65e333acece956dec4d9e5d5d846958b",
     "url": "/studio-ghibli/index.html"
   }
 ];
